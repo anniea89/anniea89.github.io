@@ -1,5 +1,8 @@
-body {color: (#00D2FF)}
-background-color: {white}
+body {background-color: (#00D2FF);
+}
 h1 {color: (#FF96F1);
-	font-size: 22px;}
-#slogan {text-transform: italic}
+	font-size: 22px;
+	text-align: center;
+}
+#slogan {text-transform: italic;
+}
