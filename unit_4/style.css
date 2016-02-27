@@ -14,6 +14,7 @@ nav {background-color: #E8C66A;
 article {background-color: #E89C6C;
 	border: 1px black solid;
 	padding: 20px;
+	vertical-align: middle;
 }
 footer {background-color: #FF957E;
 	border: 1px black solid;
