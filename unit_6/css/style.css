@@ -57,6 +57,10 @@ p {font-size: 20px;
 font-family: Arial, sans-serif;
 	text-align: center;
 }
+
+img {height: 300;
+	width:450;
+}
 #two_column {
     background-color: #FFB7CF;
     border: 1px black solid;
