@@ -1,0 +1,16 @@
+body {background-color: #00D2FF;
+}
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+h1 {
+	color: #FF96F1;
+	font-size: 1.5em;
+	text-align: center;
+	font-family:'Comfortaa', cursive;
+}
+h2 {
+	font-style: bold;
+}
