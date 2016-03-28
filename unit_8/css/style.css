@@ -31,29 +31,29 @@ footer {
 }
 h1 {
 	color: #FF96F1;
-	font-size: 24px;
+	font-size: 1.5em;
 	text-align: center;
 	font-family:'Comfortaa', cursive;
 }
 #slogan {
 	color: #FF96F1;
-	font-size: 24px;
+	font-size: 1.5em;
 	text-align: center;
 	font-style: italic;
 }
 h2 {color: #FF96F1;
-font-size: 22px;
+font-size: 1.375em;
 font-family:'Special Elite', cursive;
 text-align: center;
 } 
 ul {list-style-position: inside;
 }
 li {color: #FF5A0B;
-font-size: 20px;
+font-size: 1.25em;
 font-family: Arial, sans-serif;
 text-align: center;
 }
-p {font-size: 20px;
+p {font-size: 1.25em;
 font-family: Arial, sans-serif;
 	text-align: center;
 }
