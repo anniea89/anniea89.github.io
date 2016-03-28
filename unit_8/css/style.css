@@ -1,0 +1,92 @@
+@import url(https://fonts.googleapis.com/css?family=Comfortaa);
+@import url(https://fonts.googleapis.com/css?family=Special+Elite);
+body {background-color: #00D2FF;
+}
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+nav {
+background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+
+}
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+	vertical-align: middle;
+}
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+.section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+h1 {
+	color: #FF96F1;
+	font-size: 24px;
+	text-align: center;
+	font-family:'Comfortaa', cursive;
+}
+#slogan {
+	color: #FF96F1;
+	font-size: 24px;
+	text-align: center;
+	font-style: italic;
+}
+h2 {color: #FF96F1;
+font-size: 22px;
+font-family:'Special Elite', cursive;
+text-align: center;
+} 
+ul {list-style-position: inside;
+}
+li {color: #FF5A0B;
+font-size: 20px;
+font-family: Arial, sans-serif;
+text-align: center;
+}
+p {font-size: 20px;
+font-family: Arial, sans-serif;
+	text-align: center;
+}
+
+img {height: 300;
+	width:450;
+}
+#two_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: violet;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+#right {
+    background-color: pink;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;
+    width: 62%;
+    }
+    .clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
