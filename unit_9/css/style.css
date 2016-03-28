@@ -1,0 +1,100 @@
+@import url(https://fonts.googleapis.com/css?family=Comfortaa);
+@import url(https://fonts.googleapis.com/css?family=Special+Elite);
+body {background-color: #00D2FF;
+}
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+nav {
+background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+
+}
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20%;
+	vertical-align: middle;
+}
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20%;
+}
+.section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20%;
+}
+h1 {
+	color: #FF96F1;
+	font-size: 1.5em;
+	text-align: center;
+	font-family:'Comfortaa', cursive;
+}
+#slogan {
+	color: #FF96F1;
+	font-size: 1.5em;
+	text-align: center;
+	font-style: italic;
+}
+h2 {color: #FF96F1;
+font-size: 1.375em;
+font-family:'Special Elite', cursive;
+text-align: center;
+} 
+ul {list-style-position: inside;
+}
+li {color: #FF5A0B;
+font-size: 1.25em;
+font-family: Arial, sans-serif;
+text-align: center;
+}
+p {font-size: 1.25em;
+font-family: Arial, sans-serif;
+	text-align: center;
+}
+
+img {height:300px;
+	width:450px;
+	min-height: 50%;
+	max-height: 100%;
+}
+#two_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: violet;
+    border: 1px black solid;
+    padding: 20%;
+    float: left;
+    width: 55%;
+}
+
+#right {
+    background-color: pink;
+    border: 1px black solid;
+    padding: 20%;
+    float: right;
+    width: 62%;
+    }
+    .clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+@media screen and (min-width: 220px) {
+	body {
+		font-size: 200%;
+	}
+}
+@media screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixelratio: 3)
