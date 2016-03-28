@@ -16,18 +16,18 @@ background-color: #E8C66A;
 article {
 	background-color: #E89C6C;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 20%;
 	vertical-align: middle;
 }
 footer {
 	background-color: #FF957E;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 20%;
 }
 .section {
 	background-color: #FFE2B8;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 20%;
 }
 h1 {
 	color: #FF96F1;
@@ -58,8 +58,9 @@ font-family: Arial, sans-serif;
 	text-align: center;
 }
 
-img {height: 300;
+img {height:300;
 	width:450;
+	max-height: 100%;
 }
 #two_column {
     background-color: #FFB7CF;
