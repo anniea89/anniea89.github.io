@@ -92,3 +92,9 @@ img {height:300px;
     clear: both;
     height: 0;
 }
+@media screen and (min-width: 220px) {
+	body {
+		font-size: 200%;
+	}
+}
+@media screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixelratio: 3)
