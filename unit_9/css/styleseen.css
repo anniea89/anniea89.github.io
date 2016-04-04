@@ -23,10 +23,8 @@ h2 {
 	font-size: 1.5em;
 	text-align: center;
 	font-style: bold;
-
 }
-p {
-	font-size: 1.25em;
-    font-family: Arial, sans-serif;
+p {font-size: 1.25em;
+font-family: Arial, sans-serif;
 	text-align: center;
 }
