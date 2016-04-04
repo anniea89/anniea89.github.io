@@ -1,16 +1,31 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans);
+@import url(https://fonts.googleapis.com/css?family=Merriweather);
 body {background-color: #00D2FF;
 }
 header {
+    font-family: 'Montserrat', sans-serif;
 	background-color: #FFED74;
-	border: 1px black solid;
-	padding: 20px;
+	color: #b30059;
+	text-align: center;
+	font-style: bold;
 }
 h1 {
-	color: #FF96F1;
+	color: #b30059;
 	font-size: 1.5em;
 	text-align: center;
-	font-family:'Comfortaa', cursive;
+	font-family: 'Noto Sans', sans-serif;
 }
 h2 {
+	font-family: 'Merriweather', serif;
+	color: #b30059;
+	font-size: 1.5em;
+	text-align: center;
 	font-style: bold;
+
+}
+p {
+	font-size: 1.25em;
+    font-family: Arial, sans-serif;
+	text-align: center;
 }
