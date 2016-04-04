@@ -5,8 +5,10 @@
 div {
     background-image: images/library.jpeg;
     background-repeat: no-repeat;
-    background-size: 100% 100%;
-    background-origin: content-box }
+    background-size: auto;
+    background-origin: content-box 
+opacity:0.4;
+}
 header {
     font-family: 'Montserrat', sans-serif;
 	background-color: #FFED74;
