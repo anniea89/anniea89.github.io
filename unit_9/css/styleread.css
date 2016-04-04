@@ -2,11 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans);
 @import url(https://fonts.googleapis.com/css?family=Merriweather);
 
-div {
-    background-image: images/library.jpeg;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-origin: content-box;
+body {background-color: #00D2FF;
 }
 header {
     font-family: 'Montserrat', sans-serif;
