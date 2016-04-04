@@ -9,8 +9,7 @@ header {
 	background-color: #FFED74;
 	color: #b30059;
 	text-align: center;
-	border: 1px black solid;
-	padding: 20px;
+	font-style: bold;
 }
 h1 {
 	color: #b30059;
